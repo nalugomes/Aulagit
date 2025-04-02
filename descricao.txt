@@ -1,4 +1,12 @@
 Escreva uma descrição:
 
+<<<<<<< HEAD
 1- Ana vem do hebraico e significa “cheia de graça”. Luiza tem origem germânica e significa “combatente gloriosa”
 O nome khalil significa "amigo" em árabe
+=======
+<<<<<<< HEAD
+O nome khalil significa "amigo" em árabe
+=======
+o nome André significa "homem" ou "guerreiro"
+>>>>>>> Andre
+>>>>>>> 63b1fe8fa8ebb4bc7644bedb6c678a82783c7731

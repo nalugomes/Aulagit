@@ -1,4 +1,12 @@
 Escreva seus hobbies: 
 
+<<<<<<< HEAD
 Ana Luiza: Cozinhar, dançar, escutar música
 hobbies de khalil: tocar guitarra, desenhar, escrever, modelagem 3d, fazer programa, top 1 da paraíba de melodie no brawl stars
+=======
+<<<<<<< HEAD
+hobbies de khalil: tocar guitarra, desenhar, escrever, modelagem 3d, fazer programa, top 1 da paraíba de melodie no brawl stars
+=======
+Jogar basquete
+>>>>>>> Andre
+>>>>>>> 63b1fe8fa8ebb4bc7644bedb6c678a82783c7731
