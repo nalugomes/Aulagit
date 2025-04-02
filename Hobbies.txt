@@ -1,3 +1,7 @@
 Escreva seus hobbies: 
 
+<<<<<<< HEAD
 hobbies de khalil: tocar guitarra, desenhar, escrever, modelagem 3d, fazer programa, top 1 da paraíba de melodie no brawl stars
+=======
+Jogar basquete
+>>>>>>> Andre

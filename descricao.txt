@@ -1,3 +1,7 @@
 Escreva uma descrição:
 
+<<<<<<< HEAD
 O nome khalil significa "amigo" em árabe
+=======
+o nome André significa "homem" ou "guerreiro"
+>>>>>>> Andre
