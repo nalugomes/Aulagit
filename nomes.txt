@@ -1,8 +1,9 @@
 Escreva seu nome:
-Escreva seu nome:
 
 1- Ana Luiza
 
-Khalil
-André
-lucas
+2- Khalil
+
+3- André
+
+4- lucas
